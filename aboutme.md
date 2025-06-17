@@ -1,13 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Nothing about me, just wanna show off my cat
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+His name is Bo Can. And following are his purfection attributes:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- He's super handsome
+- He escaped his family and went on a trip for about 10 days, forcing his parents to go look for him everywhere (with a huge support from the cat local community on FB)
+- He seems to plan another escape when summer is here. But mum is cautious. We'll see who's gonna win by the end of summer. 
 
 What else do you need?
 
